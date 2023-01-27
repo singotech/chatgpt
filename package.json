@@ -1,8 +1,8 @@
 {
-  "name": "chatgpt",
+  "name": "ChatGPT",
   "version": "0.0.1",
-  "description": "chatgpt app desc",
-  "productName": "chatgpt app",
+  "description": "ChatGPT app v2",
+  "productName": "ChatGPT",
   "author": "1nd0n3s14",
   "private": true,
   "scripts": {
