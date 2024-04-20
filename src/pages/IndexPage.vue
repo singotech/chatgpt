@@ -6,7 +6,7 @@
           <div v-if="chat.from === 'chatgpt'">
             <q-chat-message
               :name=chat.from
-              avatar="https://pbs.twimg.com/profile_images/1598924796372422656/nEcoIDXz_400x400.jpg"
+              avatar="https://cdn-icons-png.flaticon.com/64/9108/9108014.png"
               :text="chat.text"
               text-color="grey-1"
               bg-color="grey-7"
