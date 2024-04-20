@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "ChatGPT app v2",
   "productName": "ChatGPT",
-  "author": "1nd0n3s14",
+  "author": "singotech <https://github.com/singotech>",
   "private": true,
   "scripts": {
     "dev": "quasar dev",
